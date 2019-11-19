@@ -1,3 +1,4 @@
+cd /
 d:
 cd peekaboo
 git add *

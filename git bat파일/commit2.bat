@@ -1,3 +1,4 @@
+cd /
 D:
 cd %1
 git add *
