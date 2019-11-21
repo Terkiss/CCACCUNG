@@ -1,15 +1,9 @@
-9/12 21:59:49.624  Connecting to Battle.net...
-9/12 21:59:49.796  Trying to load ws2_32.dll
-9/12 21:59:49.796      querying gateway
-9/12 21:59:49.890      searching for the fastest server
-9/12 21:59:50.077      connected to server
-9/12 21:59:50.108      connected to server
-9/12 21:59:50.140  Connected to server 63.241.83.7
-9/12 21:59:50.140      Validating ID
-9/12 21:59:50.171  connected to server
-9/12 21:59:50.233  connected to server
-9/12 21:59:54.641  File: 'lockdown-IX86-13.mpq' in bncache.dat is corrupt (3) - deleting from cache
-9/12 21:59:54.641      requesting latest version
-9/12 21:59:56.079  downloading upgrade
-9/12 22:00:13.583  Disconnecting from server
-9/12 22:00:13.583  Could not connect to Battle.net
+11/20 13:22:27.516  Connecting to Battle.net...
+11/20 13:22:27.561  Trying to load ws2_32.dll
+11/20 13:22:27.565      querying gateway
+11/20 13:22:27.565      searching for the fastest server
+11/20 13:22:27.590      connected to server
+11/20 13:22:27.633  Connected to server 13.124.135.80
+11/20 13:22:27.633      Validating ID
+11/20 13:22:30.623  Disconnecting from server
+11/20 13:22:30.623  Could not connect to Battle.net
