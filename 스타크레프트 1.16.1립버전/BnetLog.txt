@@ -1,9 +1,0 @@
-11/20 13:22:27.516  Connecting to Battle.net...
-11/20 13:22:27.561  Trying to load ws2_32.dll
-11/20 13:22:27.565      querying gateway
-11/20 13:22:27.565      searching for the fastest server
-11/20 13:22:27.590      connected to server
-11/20 13:22:27.633  Connected to server 13.124.135.80
-11/20 13:22:27.633      Validating ID
-11/20 13:22:30.623  Disconnecting from server
-11/20 13:22:30.623  Could not connect to Battle.net
